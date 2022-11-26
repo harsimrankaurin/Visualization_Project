@@ -1,0 +1,36 @@
+{
+    "Data" : {
+        "Home" : {
+            "desc": "Opaj Consulting Inc specializes in providing professional services for managing Enterprise JD Edwards upgrade, implementation projects and support. We use proven tools, a time-tested project plan and leading industry processes. We can significantly reduce project risks while ensuring that the maximum business benefits are achieved.",
+            "features": "JDE EnterpriseOne, JDE World, IQ4BIZ, UPK, Support, Training"
+        },
+        "Services": {
+            "list": "JD Edwards Enterprise Solutions, Business Intelligence Services, JD EnterpriseOne, JD Edwards World, IQ4BIZ, UPK",
+            "desc": "We are a value shop focused on providing professional services which includes Pre-Implementation Assessment & Evaluation, Implementation, Sizing, Upgrade, Migration, Reactive & Proactive Help Desk Support, Performance Tuning,Optimization, Technology & Database Support, Integration, Development & Customizations and Post-Implementation Audit. "
+        },
+        "Aboutus": {
+            "heading": "What Business Demands",
+            "desc1": "Our mission is to offer comprehensive solutions focused around complete integration of Enterprise Business",
+            "desc2": "Deliver enterprise solutions covering business portfolios ranging from Product Lifecycle Management, Supply Chain Planning, Procurement, Manufacturing, Order Management & Logistics, Financials & Projects, Asset Lifecycle Management, Human Capital Management, MIS and Business Intelligence."
+        },
+        "Address": {
+            "email": "info@opajconsulting",
+            "phone": "408-348-5782",
+            "state": "California, 95035",
+            "city": "Milptias",
+            "add": "580 Clover Circle"
+        },
+        "form": {
+            "field1": "First Name:",
+            "field2": "Last Name:",
+            "field3": "Email:",
+            "field4": "Mobile:",
+            "field5": "Comments:",
+            "field6": "Company:",
+            "field7": "Submit Your Message:",
+            "btn1": "Submit",
+            "btn2": "Reset"
+        },
+        "copyright": "Copyright 2011 Opaj Consulting Inc. All rights reserved."
+    }
+}
