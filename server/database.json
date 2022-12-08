@@ -1,0 +1,81 @@
+{
+    "Home": [
+        {
+            "msg": "Welcome! We are",
+            "company": "Opaj Consulting Inc.",
+            "task_msg": "WHAT WE DO",
+            "our_task_img": "assets/images/our_task.png",
+            "desc": "Opaj Consulting Inc specializes in providing professional services for managing Enterprise JD Edwards upgrade, implementation projects and support. We use proven tools, a time-tested project plan and leading industry processes. We can significantly reduce project risks while ensuring that the maximum business benefits are achieved.",
+            "features": ["JDE EnterpriseOne, JDE World, IQ4BIZ, UPK, Support, Training"]
+        }
+    ],
+    "Services": [
+        {
+            "list": [
+                {"name": "Solutions", "img": "assets/images/JDE.png", "msg": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."},
+                {"name": "IQ4BIZ", "img": "assets/images/IQ4bis.png", "msg": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."},
+                {"name": "EnterpriseOne", "img": "assets/images/JD.png", "msg": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."},
+                {"name": "", "img": "assets/images/UPK.png", "msg": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."},
+                {"name": "Support", "img": "assets/images/support.png", "msg": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."},
+                {"name": "Training", "img": "assets/images/training.png", "msg": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."}                
+            ],
+            "desc": "Oracle's  JD Edwards services are going strong in the wake of Supply Chain & Digital Transformations. Opaj Consulting Inc  specializes in implementing and integrating on-premise solutions for companies across multiple industries and sizes."
+        }
+    ],
+    "Aboutus": [
+        {
+            "heading": "What Business Demands",
+            "desc1": "Our mission is to offer comprehensive solutions focused around complete integration of Enterprise Business",
+            "img_desc": "",
+            "img": "assets/images/aboutUs.png",
+            "img_text": "Deliver enterprise solutions covering business portfolios ranging from"
+        }
+    ],
+    "Address": [
+        {
+            "email": "info@opajconsulting",
+            "phone": "408-348-5782",
+            "city_state": "Milptias, CA",
+            "add": "580 Clover Circle",
+            "pincode": "95035"
+        }
+    ],
+    "form": [
+        {
+            "Heading": "GET IN TOUCH",
+            "Writetous": "WRITE TO US",
+            "contactInfo": "Contact Information",
+            "field1": "First Name",
+            "field2": "Last Name",
+            "field3": "Email",
+            "field4": "Mobile",
+            "field5": "Comments",
+            "field6": "Company",
+            "field7": "Submit Your Message",
+            "btn1": "Submit",
+            "btn2": "Reset",
+            "linkedin": "https://www.linkedin.com/in/paulnagi",
+            "phone_icon": "assets/images/phone.png",
+            "email_icon": "assets/images/email.png",
+            "location_icon": "assets/images/location.png" 
+          }
+    ],
+    "ManagedServies": [
+        {
+            "s1": "Provide 24/7 on-call support, technical and functional, or staff augmentation. We provide SLA based phone and email support",
+            "s2": "Provide case basis Business Analysis and Feature enhancement consulting solutions",
+            "s3": "Provide  JD Edwards Development & Customizations  Services - Custom Code development , Orchestration & Alerts , Report Development , Digital Form & Print Solutions",
+            "s4": "UI User Interface development , E1Cafe, Watch List, E1 Pages and much more",
+            "s5": "Provide JD Edwards CNC System Administration Services & Scheduler Automation . System Performance Monitoring services and alerts",
+            "s6": "Provide JD Edwards Role Based Security Configuration & Support Services",
+            "s7": "Applications have bugs, require changes , and grow obsolete over time. As we are a value shop our experienced with client managed services can help optimize and stabilize application originally written where  deveopment  and documentation was poorly written and implemented",
+            "s8": "Performace Monitoring",
+            "s9": "JD Edwards Upgrade & Migration Sevices ",
+            "s1_icon": "assets/images/s1.png"
+        }
+    ],
+    "Message": [
+        {"copyright": "Copyright 2011 Opaj Consulting Inc. All rights reserved."}
+    ]
+    
+}
